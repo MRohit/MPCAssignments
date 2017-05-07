@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-10-06T00:21:03</date>
+  <millis>1412535063104</millis>
+  <sequence>0</sequence>
+  <logger>OrderManagementSystem</logger>
+  <level>INFO</level>
+  <class>com.psl.client.Client</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Order Management System Started..!!!</message>
+</record>
+<record>
+  <date>2014-10-06T00:21:03</date>
+  <millis>1412535063902</millis>
+  <sequence>1</sequence>
+  <logger>OrderManagementSystem</logger>
+  <level>INFO</level>
+  <class>com.psl.client.Client</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Truncation of Tables Finished..!!!</message>
+</record>
+<record>
+  <date>2014-10-06T00:21:06</date>
+  <millis>1412535066153</millis>
+  <sequence>2</sequence>
+  <logger>OrderManagementSystem</logger>
+  <level>INFO</level>
+  <class>com.psl.client.Client</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Orders Are Shipped..!!!</message>
+</record>
+<record>
+  <date>2014-10-06T00:21:06</date>
+  <millis>1412535066182</millis>
+  <sequence>3</sequence>
+  <logger>OrderManagementSystem</logger>
+  <level>INFO</level>
+  <class>com.psl.client.Client</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Purchase Order Object(s) Serialized..!!!</message>
+</record>
+<record>
+  <date>2014-10-06T00:21:06</date>
+  <millis>1412535066189</millis>
+  <sequence>4</sequence>
+  <logger>OrderManagementSystem</logger>
+  <level>INFO</level>
+  <class>com.psl.client.Client</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>Good Bye..!!!</message>
+</record>
+</log>

@@ -1,0 +1,13 @@
+Customer ID: 4
+
+Customer Name: Vishal Hule
+
+Order Date: 6-10-2014	Ship Date: 16-10-2014
+
+Order Item	Qty	Price	Total Price
+item555		2	500.0	1000.0
+item444		5	400.0	2000.0
+item333		8	300.0	2400.0
+
+
+Grand Total: 5400.0

@@ -1,0 +1,13 @@
+Customer ID: 1
+
+Customer Name: Yogesh Shinde
+
+Order Date: 5-10-2014	Ship Date: 11-10-2014
+
+Order Item	Qty	Price	Total Price
+item111		2	100.0	200.0
+item444		5	400.0	2000.0
+item555		8	500.0	4000.0
+
+
+Grand Total: 6200.0

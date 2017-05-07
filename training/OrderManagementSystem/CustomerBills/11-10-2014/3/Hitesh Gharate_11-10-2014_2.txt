@@ -1,0 +1,13 @@
+Customer ID: 3
+
+Customer Name: Hitesh Gharate
+
+Order Date: 5-10-2014	Ship Date: 11-10-2014
+
+Order Item	Qty	Price	Total Price
+item222		2	200.0	400.0
+item666		5	240.0	1200.0
+item333		8	300.0	2400.0
+
+
+Grand Total: 4000.0

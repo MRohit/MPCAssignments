@@ -1,0 +1,20 @@
+Madhya Pradesh-Bhopal
+Goa-Bicholim
+Andhra Pradesh-Guntur
+Madhya Pradesh-Gwalior
+Andhra Pradesh-Hyderabad
+Madhya Pradesh-Indore
+Madhya Pradesh-Khandwa
+Maharashtra-Kolhapur
+Goa-Mapusa
+Goa-Margao
+Maharashtra-Mumbai
+Maharashtra-Nagpur
+Maharashtra-Nashik
+Goa-Panaji
+Maharashtra-Pune
+Maharashtra-Solapur
+Madhya Pradesh-Ujjain
+Andhra Pradesh-Vijayawada
+Andhra Pradesh-Visakhapatnam
+
